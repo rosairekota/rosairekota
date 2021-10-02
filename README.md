@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
-<p style="background-color:red;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rosairekota&show_icons=true&locale=en&layout=compact" alt="rosairekota" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rosairekota&show_icons=true&locale=en&layout=compact" alt="rosairekota" /></p>
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
