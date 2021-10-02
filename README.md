@@ -11,3 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -..
 -->
+- 🔭 Coding is my passion on a daily basis.
+- 🌱 I am comfortable with TypeScript, ReactJS, PHP, Symfony,....
+- 👯 I'm looking to collaborate on an innovative project
+
