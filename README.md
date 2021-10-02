@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 -..
 -->
 - 🔭 Coding is my passion on a daily basis.
-- 🌱 My basic languages or technologies: JS|TypeScript, ReactJS, PHP|Symfony, NodeJS|NestJS
+- 🌱 I’m currently learning: **JS|TypeScript, ReactJS, PHP|Symfony, NodeJS|NestJS**
 - 👯 I'm looking to collaborate on an innovative project
+
+<br/>
+
+<h2 align="left">🛠 Languages and Tools:</h2>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rosairekota&show_icons=true&locale=en&layout=compact" alt="rosairekota" /></p>
