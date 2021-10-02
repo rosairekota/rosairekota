@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 -..
 -->
 - 🔭 Coding is my passion on a daily basis.
-- 🌱 My basic languages or technologies: JS|TypeScript, ReactJS, PHP|Symfony, NodeJS|NestJS
+- 🌱 My basic languages or technologies: #JS|TypeScript, ReactJS, PHP|Symfony, NodeJS|NestJS
 - 👯 I'm looking to collaborate on an innovative project
