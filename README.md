@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -..
 -->
 - 🔭 Coding is my passion on a daily basis.
-- 🌱 I’m currently learning: **JS|TypeScript, ReactJS, PHP|Symfony, NodeJS|NestJS**
+- 🌱 I’m currently learning: **JS|TypeScript, VueJS, ReactJS, PHP|Symfony, NodeJS|NestJS**
 - 👯 I'm looking to collaborate on an innovative project
 
 <br/>
