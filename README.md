@@ -1,22 +1,10 @@
 [![rkota's github stats](https://github-readme-stats.vercel.app/api?username=rosairekota&count_private=1)](https://github.com/rosairekota)
- <p><a href="https://app.daily.dev/rosairekota"><img src="https://api.daily.dev/devcards/5ce06d1d7199442ab8f283d953cacd89.png?r=eu3" width="400" alt="rkota's Dev Card"/></a></p>
-
-<!--
-**rosairekota/rosairekota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Coding is my daily passion.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--..
--->
-- 🔭 Coding is my passion on a daily basis.
+<div>
+ <a href="https://app.daily.dev/rosairekota"><img src="https://api.daily.dev/devcards/5ce06d1d7199442ab8f283d953cacd89.png?r=eu3" width="400" alt="rkota's Dev Card"/></a>
+ - 🔭 Coding is my passion on a daily basis.
 - 🌱 I’m currently learning: **JS|TypeScript, VueJS, ReactJS, PHP|Laravel, PHP|Symfony, nodeJS|NestJS**
 - 👯 I'm looking to collaborate on an innovative project
-
-<br/>
+</div>
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
