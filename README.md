@@ -7,6 +7,7 @@
    - 🔭 Coding is my passion on a daily basis.
    - 🌱 I’m currently learning: **JS|TypeScript, VueJS, ReactJS, PHP|Laravel, PHP|Symfony, nodeJS|NestJS**
    - 👯 I'm looking to collaborate on an innovative project
+  <br/>
 <h2 align="left">🛠 Languages and Tools:</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rosairekota&show_icons=true&locale=en&layout=compact" alt="rosairekota" /></p>
