@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rosairekota" alt="rosairekota" /></p>
+ <p><a href="https://app.daily.dev/rosairekota"><img src="https://api.daily.dev/devcards/5ce06d1d7199442ab8f283d953cacd89.png?r=eu3" width="400" alt="rkota's Dev Card"/></a></p>
