@@ -1,7 +1,5 @@
-<div style="display:flex;">
- [![rkota's github stats](https://github-readme-stats.vercel.app/api?username=rosairekota&count_private=1)](https://github.com/rosairekota)
+[![rkota's github stats](https://github-readme-stats.vercel.app/api?username=rosairekota&count_private=1)](https://github.com/rosairekota)
  <p><a href="https://app.daily.dev/rosairekota"><img src="https://api.daily.dev/devcards/5ce06d1d7199442ab8f283d953cacd89.png?r=eu3" width="400" alt="rkota's Dev Card"/></a></p>
-</div>
 
 <!--
 **rosairekota/rosairekota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
