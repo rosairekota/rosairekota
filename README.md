@@ -3,13 +3,10 @@
  <p style="display:flex;">
    <a href="https://app.daily.dev/rosairekota"><img src="https://api.daily.dev/devcards/5ce06d1d7199442ab8f283d953cacd89.png?r=eu3" width="400" alt="rkota's Dev Card"/></a>
  </p>
- <p>
+</div>
    - 🔭 Coding is my passion on a daily basis.
    - 🌱 I’m currently learning: **JS|TypeScript, VueJS, ReactJS, PHP|Laravel, PHP|Symfony, nodeJS|NestJS**
    - 👯 I'm looking to collaborate on an innovative project
- </p>
-</div>
-
 <h2 align="left">🛠 Languages and Tools:</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rosairekota&show_icons=true&locale=en&layout=compact" alt="rosairekota" /></p>
